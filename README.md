@@ -3,8 +3,8 @@ There are many languages in the world. It is almost impossible to learn all of t
 
 Group Members
 
-Ataberk Yakar Yakar
+Ataberk Yakar
 Fevzi Deniz YENIGUN
 Jose Maria Celdran Haro 
-Surya Kiran Vendaoor Shaju
+Surya Kiran Vendoor Shaju
 Tomoaki Ishiguro
