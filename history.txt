@@ -1,0 +1,122 @@
+    1  pwd
+    2  cd desktop
+    3  cd software engineering
+    4  cd softwareengineering
+    5  cd software engineering
+    6  cd softwareengineering
+    7  git status
+    8  git add .
+    9  git status
+   10  git config --list
+   11  git config --global user.name = 'Fevzi'
+   12  git config --list
+   13  pwd
+   14  cd desktop
+   15  cd softwareengineering
+   16  git branch master
+   17  git checkout master
+   18  git remote add origin https://github.com/fevik-deniz/Sofware-Engineering.git
+   19  git push origin master
+   20  git push -f origin master
+   21  [200~git remote add origin https://github.com/fevik-deniz/Sofware-Engineering.git
+   22  git branch -M main
+   23  git push -u origin main~
+   24  pwd
+   25  cd desktop/softwareengineering
+   26  git branch -m master
+   27  git branch -a
+   28  git checkout release
+   29  cd desktop/softwareengineering
+   30  git branch master
+   31  git checkout master
+   32  pwd
+   33  cd desktop/softwareengineering
+   34  git remote add origin https://github.com/fevik-deniz/Sofware-Engineering.git
+   35  git push -u origin master
+   36  git remote -v
+   37  [200~git remote set-url origin mySSH_url~
+   38  git remote set-url origin mySSH_url
+   39  git remote -v
+   40  git push -u origin master
+   41  git remote add origin https://github.com/fevik-deniz/Sofware-Engineering.git
+   42  git remote -v
+   43  git remote set-url origin git@github.com:fevik-deniz/Sofware-Engineering.git
+   44  git remote -v
+   45  git push -u origin master
+   46  git checkout release
+   47  git checkout develop
+   48  git checkout master
+   49  git vagrant halt
+   50  git status
+   51  git status
+   52  git add .
+   53  git status
+   54  git commit -m 'readme modified'
+   55  git status
+   56  git status
+   57  git add README.md
+   58  git commit 'Group members added to the readme.md file'
+   59  git status
+   60  git commit -m 'Group members added to the readme.md file'
+   61  git status
+   62  git branch develop
+   63  git branch feat-assign
+   64  git checkout feat-assign
+   65  git touch Flow.txt
+   66  touch Flow.txt
+   67  git status
+   68  git add Flow.txt
+   69  git status
+   70  git status
+   71  git status
+   72  git commit -m 'Flow.txt is changed in feat-assign branch'
+   73  git status
+   74  git add Flow.txt
+   75  git commit -m 'Flow.txt file was changed in feat-assign branch.'
+   76  git status
+   77  git status
+   78  git add Flow.txt
+   79  git commit -m 'Flow.txt file was changed in feat-assign branch second time.'
+   80  git status
+   81  git checkout develop
+   82  git merge --no-ff feat-assign
+   83  git status
+   84  git branch -d feat-assign
+   85  git branch -a
+   86  git push origin develop
+   87  git status
+   88  git add Flow.txt
+   89  git commit 'In develop line added in devvelop branch'
+   90  git commit -m 'In develop line added in devvelop branch'
+   91  git status
+   92  git checkout master
+   93  git merge --no-ff develop
+   94  git status
+   95  git branch hotfix1_1
+   96  git checkout hotfix1_1
+   97  git status
+   98  git add Flow.txt
+   99  git commit -m 'Hotfixed line was added in hotfix1_1 branch'
+  100  git checkout develop
+  101  git merge --no-ff hotfix1_1
+  102  git checkout master 
+  103  git merge --no-ff hotfix1_1
+  104  git branch -d hotfix1_1
+  105  git log --oneline
+  106  git push origin develop
+  107  git push origin master
+  108  exit
+  109  exit
+  110  cd desktop/deneme
+  111  [200~echo "# Sofware-Engineering" >> README.md
+  112  echo "# Sofware-Engineering" >> README.md
+  113  git init
+  114  git add README.md
+  115  git commit -m "first commit"
+  116  git remote add origin https://github.com/fevik-deniz/Sofware-Engineering.git
+  117  git push -u origin master
+  118  git config --list
+  119  git checkout develop
+  120  history
+  121  touch history.txt
+  122  history > history.txt
